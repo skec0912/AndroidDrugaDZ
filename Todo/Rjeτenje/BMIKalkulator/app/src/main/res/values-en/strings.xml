@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="label_unos_tezine">Enter weight</string>
+	<string name="label_unos_visine">Enter height</string>
+	<string name="button_izracun">Calculate BMI</string>
+	<string name="label_ispis_BMI">Your BMI</string>
+	<string name="text_pothranjeno">Underweight</string>
+	<string name="text_normalno">Normal weight</string>
+	<string name="text_prekomjerno">Overweight</string>
+</resources>

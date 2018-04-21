@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#CCD9FF</color>
+    <string name="app_name">BMI Kalkulator</string>
+    <string name="button_izracun">Izračunaj BMI</string>
+    <string name="label_ispis_BMI">Vaš BMI</string>
+    <string name="label_unos_tezine">Unesite težinu</string>
+    <string name="label_unos_visine">Unesite visinu</string>
+    <string name="text_normalno">Normalna težina</string>
+    <string name="text_pothranjeno">Pothranjenost</string>
+    <string name="text_prekomjerno">Prekomjerna težina</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

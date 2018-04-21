@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "C:\\Users\\Vedran\\AndroidStudioProjects\\BMIKalkulator\\app\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "C:\\Users\\Vedran\\AndroidStudioProjects\\BMIKalkulator\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 51,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 56,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Vedran\\AndroidStudioProjects\\BMIKalkulator\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 222,
+                        "endColumn": 53,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 52,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "C:\\Users\\Vedran\\AndroidStudioProjects\\BMIKalkulator\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 276,
+                        "endColumn": 49,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 58,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "C:\\Users\\Vedran\\AndroidStudioProjects\\BMIKalkulator\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 58,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 58,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "C:\\Users\\Vedran\\AndroidStudioProjects\\BMIKalkulator\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 166,
+                        "endColumn": 55,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 55,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "C:\\Users\\Vedran\\AndroidStudioProjects\\BMIKalkulator\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 380,
+                        "endColumn": 52,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 56,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "C:\\Users\\Vedran\\AndroidStudioProjects\\BMIKalkulator\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 326,
+                        "endColumn": 53,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 55,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "C:\\Users\\Vedran\\AndroidStudioProjects\\BMIKalkulator\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 433,
+                        "endColumn": 52,
+                        "endOffset": 484
+                    }
+                }
+            }
+        ]
+    }
+]

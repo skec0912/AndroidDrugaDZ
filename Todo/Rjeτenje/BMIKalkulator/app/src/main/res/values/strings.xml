@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Kalkulator</string>
+    <string name="label_unos_tezine">Unesite težinu</string>
+	<string name="label_unos_visine">Unesite visinu</string>
+	<string name="button_izracun">Izračunaj BMI</string>
+	<string name="label_ispis_BMI">Vaš BMI</string>
+	<string name="text_pothranjeno">Pothranjenost</string>
+	<string name="text_normalno">Normalna težina</string>
+	<string name="text_prekomjerno">Prekomjerna težina</string>
+</resources>
